@@ -1,0 +1,3 @@
+
+Test array6400.txt Memoization Process time: 0,435
+Test array6400.txt Tabulation Process time: 0,081

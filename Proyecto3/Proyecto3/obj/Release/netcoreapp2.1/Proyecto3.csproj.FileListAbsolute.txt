@@ -1,0 +1,10 @@
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/bin/Release/netcoreapp2.1/Proyecto3.deps.json
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/bin/Release/netcoreapp2.1/Proyecto3.runtimeconfig.json
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/bin/Release/netcoreapp2.1/Proyecto3.runtimeconfig.dev.json
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/bin/Release/netcoreapp2.1/Proyecto3.dll
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/bin/Release/netcoreapp2.1/Proyecto3.pdb
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/obj/Release/netcoreapp2.1/Proyecto3.csproj.CoreCompileInputs.cache
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/obj/Release/netcoreapp2.1/Proyecto3.AssemblyInfoInputs.cache
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/obj/Release/netcoreapp2.1/Proyecto3.AssemblyInfo.cs
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/obj/Release/netcoreapp2.1/Proyecto3.dll
+/Users/Nahuel/Projects/Proyecto3/Proyecto3/obj/Release/netcoreapp2.1/Proyecto3.pdb
